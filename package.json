@@ -1,0 +1,8 @@
+{
+  "name": "mazequest-mini",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A one-level, browser-local puzzle adventure.",
+  "scripts": { "test": "node --test tests/*.test.cjs" },
+  "engines": { "node": ">=18" }
+}
